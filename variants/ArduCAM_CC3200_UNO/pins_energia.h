@@ -91,31 +91,6 @@ static const uint8_t D23 = 23;
 static const uint8_t D24 = 24;
 
 
-static const uint8_t PIN_57 = 0;
-static const uint8_t PIN_55 = 1;
-static const uint8_t PIN_61 = 2;
-static const uint8_t PIN_62 = 3;
-static const uint8_t PIN_63 = 4;
-static const uint8_t PIN_64 = 5;
-static const uint8_t PIN_17 = 6;
-static const uint8_t PIN_16 = 7;
-static const uint8_t PIN_04 = 8;
-static const uint8_t PIN_15 = 9;
-static const uint8_t PIN_08 = 10;
-static const uint8_t PIN_03 = 11;
-static const uint8_t PIN_20 = 12;
-static const uint8_t PIN_50 = 13;
-static const uint8_t PIN_02 = 14;
-static const uint8_t PIN_01 = 15;
-static const uint8_t PIN_60 = 17;
-static const uint8_t PIN_59 = 18;
-static const uint8_t PIN_58 = 19;
-static const uint8_t PIN_53 = 20;
-static const uint8_t PIN_18 = 21;
-static const uint8_t PIN_07 = 22;
-//static const uint8_t PIN_06 = 23;
-//static const uint8_t PIN_05 = 24;
-
 #ifdef ARDUINO_MAIN
 const uint32_t port_to_base[] = {
 	NOT_A_PORT,
